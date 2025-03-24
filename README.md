@@ -3,6 +3,6 @@
 
 This is the StrucID package for analysing identifiability and reachability of nonlinear state-space models with a GUI interface that allows selection of parameters/inputs/outputs.
 
-The file MyAppInstaller_web.exe contains a deployable executable that runs WITHOUT Matlab software.
+The file [MyAppInstaller_web.exe](https://github.com/jdstigter/StrucID/blob/main/MyAppInstaller_web.exe) contains a deployable executable that runs WITHOUT Matlab software.
 
 The files StrucIDAppMatlab202xxx.mlapp is the APP version of the package.
