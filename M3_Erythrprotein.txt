@@ -1,0 +1,45 @@
+Algebraic Rules!
+
+ODEs (define the individual ODE equations - 1 per line)!
+dx1/dt = -th1*x1*x2 + th1*th2*x3 + th3*x4;
+dx2/dt = -th1*x1*x2 + th1*th2*x3 + th4*x2(0) - th4*x2 + th3*x4; % Note: x2(0) is the IC of x2!!
+dx3/dt = th1*x1*x2 - th1*th2*x3 - th5*x3;
+dx4/dt = th5*x3 - th3*x4 - th6*x4 - th7*x4;
+dx5/dt = th6*x4;
+dx6/dt = th7*x4
+
+Input variables!
+
+Measured Outputs (define the measured sensors - 1 per line)!
+y1 = th8*(x1+x6)
+y2 = th8*x3
+
+Parameter names and values (define all the system parameters - 1 per line, OPTIONAL - define known paramter values)!
+th1 = 
+th2 = 
+th3 = 
+th4 = 
+th5 =
+th6 =
+th7 =
+th8 =
+
+State names and initial values (define all the model state names - 1 per line, OPTIONAL - define known initial values)!
+x1 = 1
+x2 = 1
+x3 = 0
+x4 = 0
+x5 = 0
+x6 = 0
+
+Analyse (list the unknown parameter and initial conditions which should be included into the strucutral identifiability analysis)!
+th1 
+th2 
+th3  
+th4
+th5
+th6
+th7
+th8
+x1
+x2
