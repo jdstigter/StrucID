@@ -1,5 +1,5 @@
 # StrucID
- Identifiability software
+# Identifiability analysis from parametric output sensitivities
 
 This is the StrucID package for analysing identifiability and reachability of nonlinear state-space models with a GUI interface that allows selection of parameters/inputs/outputs.
 
