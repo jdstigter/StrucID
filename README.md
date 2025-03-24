@@ -1,0 +1,2 @@
+# StrucID
+ Identifiability software
