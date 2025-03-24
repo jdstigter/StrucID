@@ -1,7 +1,7 @@
 # StrucID
 # Identifiability analysis from parametric output sensitivities
 
-This is the StrucID package for analysing identifiability and reachability of nonlinear state-space models with a GUI interface that allows selection of parameters/inputs/outputs.
+This is the StrucID package for analysing identifiability, observability, and reachability of nonlinear state-space models with a GUI interface that allows selection of parameters/inputs/outputs.
 
 [This](https://github.com/jdstigter/StrucID/blob/main/MyAppInstaller_web.exe) file contains a deployable executable that runs WITHOUT Matlab software.
 
